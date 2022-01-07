@@ -47,7 +47,7 @@
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurSahab0theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurSahab0 theme=tokyonight" />
 </p>
 
 ![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
