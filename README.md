@@ -1,13 +1,13 @@
 # Hi, I am Varun! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThakurSahab0&label=Profile%20views&color=0e75b6&style=flat" alt="ThakurSahab" /> 
+</p>
+
 - 🔭 I’m currently working on DSA 
 - 🌱 I’m currently learning JAVASCRIPT
 - 👯 I’m looking to collaborate on JAVA
 - 🤔 I’m looking for help with WEBDEVOLPMENT
 - 💬 Ask me about CS
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThakurSahab0&label=Profile%20views&color=0e75b6&style=flat" alt="ThakurSahab" /> 
-</p>
 
 I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
