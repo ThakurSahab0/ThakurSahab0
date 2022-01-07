@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-
-**ThakurSahab0/ThakurSahab0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi, I am Varun! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 - 🔭 I’m currently working on DSA 
