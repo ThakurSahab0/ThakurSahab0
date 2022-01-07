@@ -46,6 +46,7 @@ I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from G
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 <!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
+
 ## 📈 Stats
 
 <table>
@@ -59,6 +60,7 @@ I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from G
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurSahab0&theme=tokyonight" />
 </p>
+
 
 ![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
 
