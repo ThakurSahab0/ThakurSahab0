@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, I am Varun! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 - 🔭 I’m currently working on DSA 
