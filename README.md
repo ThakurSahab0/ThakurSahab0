@@ -5,13 +5,23 @@
 - 👯 I’m looking to collaborate on JAVA
 - 🤔 I’m looking for help with WEBDEVOLPMENT
 - 💬 Ask me about CS
-- 📫 How to reach me: Given Below
-- ⚡ Fun fact: ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThakurSahab0&label=Profile%20views&color=0e75b6&style=flat" alt="ThakurSahab" /> 
+</p>
+
+I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<!-- Typing SVG by dhruv01234 - https://github.com/dhruv01234/readme-typing-svg -->
+<p align="center">
+  
+  <a href="https://github.com/ThakurSahab0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
+</p>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunjadon.se@gmail.com)](mailto:varunjadon.se@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-jadon-280b5721a/)](https://www.linkedin.com/in/varun-jadon-280b5721a/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/varunjadon/)
+
+
+[![Varun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThakurSahab0&theme=xcode)](https://github.com/ThakurSahab0)
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
