@@ -47,9 +47,10 @@
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurSahab0theme=tokyonight"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakurSahab0theme=tokyonight" />
 </p>
-![snake gif](https://github.com/dhruv01234/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
