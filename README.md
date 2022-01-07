@@ -7,3 +7,6 @@
 - 💬 Ask me about CS
 - 📫 How to reach me: Given Below
 - ⚡ Fun fact: ...
+
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunjadon.se@gmail.com)](mailto:varunjadon.se@gmail.com)
