@@ -27,7 +27,7 @@ I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from G
 
 [![Varun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThakurSahab0&theme=xcode)](https://github.com/ThakurSahab0)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanyam-Maheshwari" alt="Sanyam-Maheshwari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThakurSahab0" alt="ThakurSahab0" /></a> </p>
 
 
 
