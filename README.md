@@ -1,4 +1,4 @@
-# Hi, I am Varun! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+## Hi, I am Varun! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <p align="center">
   
   <a href="https://github.com/ThakurSahab0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on DSA 
 - 🌱 I’m currently learning JAVASCRIPT
 - 👯 I’m looking to collaborate on JAVA
-- 🤔 I’m looking for help with WEBDEVOLPMENT
+- 🤔 I’m looking for help with WEB DEVELOPMENT
 - 💬 Ask me about CS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThakurSahab0&label=Profile%20views&color=0e75b6&style=flat" alt="ThakurSahab" /> 
@@ -22,6 +22,10 @@ I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from G
 
 
 [![Varun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThakurSahab0&theme=xcode)](https://github.com/ThakurSahab0)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanyam-Maheshwari" alt="Sanyam-Maheshwari" /></a> </p>
+
+
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
