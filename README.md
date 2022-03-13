@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with WEB DEVELOPMENT
 - 💬 Ask me about CS
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThakurSahab0&label=Profile%20views&color=46034bstyle=flat" alt="ThakurSahab" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThakurSahab0&label=Profile%20views&color=46034b&style=flat" alt="ThakurSahab" /> 
 </p>
 
 I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
