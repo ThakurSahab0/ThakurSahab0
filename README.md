@@ -1,7 +1,7 @@
 ## Hi, I am Varun! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <p align="center">
   
-  <a href="https://github.com/ThakurSahab0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=6e9a9b&vCenter=true&size=22"></a>
+  <a href="https://github.com/ThakurSahab0/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Living%20a%20life520of %20purpose;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=6e9a9b&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I’m currently working on DSA 
