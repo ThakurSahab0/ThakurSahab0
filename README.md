@@ -71,7 +71,7 @@ I am Varun Jadon, currently pursuing my B.Tech degree in Computer Science from G
 </p>
 
 
-![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
